@@ -2,6 +2,7 @@ FROM ubuntu:latest
 
 MAINTAINER rvbg@pm.me
 
+ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update
 RUN apt-get install -y git npm pkg-config build-essential curl
 
