@@ -14,4 +14,4 @@ This image is a multi-arch image which runs on x86-64, arm, arm64.
 | PORT | The port the server is listening on. | 80 |
 
 ## Notes
-fibridge actually also offers native HTTPS support which I deliberately did not take over with this container. Please use a reverse proxy for this.
+fibridge actually offers native HTTPS support which I deliberately did not take over with this container. Please use a reverse proxy for this.
