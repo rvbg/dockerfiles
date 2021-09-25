@@ -33,10 +33,10 @@ List of enviromental variables you can also add:
 | RT | Round limit (in minutes) | 5 |
 | ROUNDS | Rounds on a map | 5 |
 | MINPLAYERS | Minimum players to start a round | 2 |
-| TRAITORPCT | Traitor probability (in %) | 100 |
-| TRAITORMAX | Maximum amount of traitors | 1 |
-| DETPCT | Detective probability (in %) | 50 |
-| DETMAX | Maximum amount of detectives | 1 |
+| TRAITORPCT | Traitor probability (0.00 to 1.00) | 0.29 |
+| TRAITORMAX | Maximum amount of traitors | 3 |
+| DETPCT | Detective probability (0.00 to 1.00) | 0.24 |
+| DETMAX | Maximum amount of detectives | 2 |
 | DETMIN | Minimum amount of players to play a detective | 5 |
 
 ## Use the console
