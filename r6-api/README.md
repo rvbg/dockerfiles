@@ -1,4 +1,4 @@
-# rvbg/r6-api:api
+# rvbg/r6-api
 This image is a dockerized version of [Seems2Legit/Rainbow-Six-Siege-Player-Stats-API](https://github.com/Seems2Legit/Rainbow-Six-Siege-Player-Stats-API).
 There you will also find instructions on how to use this API.
 
